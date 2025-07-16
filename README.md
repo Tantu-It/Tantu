@@ -23,14 +23,13 @@ Tôi là một sinh viên yêu thích lập trình, đặc biệt với Web và 
 
 ## 📌 Dự án tiêu biểu
 
-- [Nhà thuốc Phúc An Châu](https://nhathuocphucanchau.kesug.com/): Website giới thiệu và quản lý nhà thuốc, xây dựng bằng Python và các công nghệ web hiện đại.
+- [Nhà thuốc Phúc An Châu](https://nhathuocphucanchau.kesug.com/): Website giới thiệu và quản lý nhà thuốc, xây dựng bằng php và các công nghệ web hiện đại.
 
 ---
 
 ## 📫 Kết nối với tôi
 
 - GitHub: [Tantu-It](https://github.com/Tantu-It)
-*(Bạn có thể bổ sung LinkedIn, Facebook, Email nếu muốn)*
 
 ---
 
